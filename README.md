@@ -11,8 +11,8 @@ Este proyecto es una API REST simple construida con Node.js y Express que permit
 
 <ol>
   <h2>Instalación</h2>
-  <li></li>git clone https://github.com/jriverah46/apiTareasExpress.git
-  <li></li>npm install
+  <li>git clone https://github.com/jriverah46/apiTareasExpress.git</li>
+  <li>npm install</li>
 </ol>
 
 <ul>
