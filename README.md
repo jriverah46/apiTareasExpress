@@ -2,7 +2,7 @@
 Este proyecto es una API REST simple construida con Node.js y Express que permite gestionar una lista de tareas.
 
 <h2>configuracion</h2>
-<br>puerto:3000</br>
+<b></b>puerto:3000</b>
 
 <ul> 
   <h2>Características</h2>
